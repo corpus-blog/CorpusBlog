@@ -1,4 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/Corpus_logo.png)
+![tailwind-nextjs-banner](/public/static/images/Corpus_logo_full.png)
 
 # Tailwind Nextjs Starter Blog
 
